@@ -1,6 +1,6 @@
-# Capybara::BasicAuthHelper
+# Capybara::BasicAuthHelper [![Build Status](https://travis-ci.org/damncabbage/capybara-basic_auth_helper.png)](https://travis-ci.org/damncabbage/capybara-basic_auth_helper)
 
-Provides `basic_auth(username, password)` for Capybara integration specs.
+A tiny gem that provides `basic_auth(username, password)` for Capybara integration specs.
 
 ## Installation
 
