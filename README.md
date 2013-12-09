@@ -16,7 +16,7 @@ And then execute:
 
 Add the following to your `spec/spec_helper.rb`:
 
-    require 'capybara/basic_auth_helper'
+    require 'capybara/basic_auth_helper/rspec'
 
 
 ## Usage
